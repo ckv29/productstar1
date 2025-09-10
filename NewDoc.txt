@@ -1,2 +1,6 @@
 first string
+<<<<<<< HEAD
 second string local
+
+
+>>>>>>> e920019abc6f42c3d01a1ee7ee5d625b6176918f
